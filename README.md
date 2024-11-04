@@ -1,6 +1,6 @@
 # FastApi Explorer
 
-This repository contains a program implemented with FastApi, the purpose of which is a demonstration implementation of some of the capabilities of this library.
+This repository contains a program implemented with FastApi, the purpose of which is an implementation of some of the capabilities of this library.
 
 
 **It is also worth mentioning that this project has been designed and implemented for educational purposes.**
